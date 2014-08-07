@@ -4,6 +4,14 @@
 		{
 			"follow_symlinks": true,
 			"path": "C:\\wamp\\www\\kepegawaian"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\ElMizan\\Downloads\\oop\\oop"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\ElMizan\\Downloads\\rqc2014 giyas\\rqc2014"
 		}
 	]
 }
