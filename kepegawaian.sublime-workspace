@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"su",
+				"suffix"
+			],
+			[
+				"fam",
+				"familyName"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"_",
+				"_job"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"per",
+				"person1"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"call",
+				"callProtected"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"new",
+				"newobj"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"proper",
+				"property_exists"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"widows"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"part",
+				"Partisipasi"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wid",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wra",
+				"wrapper-grey"
+			],
+			[
+				"200",
+				"200px"
+			],
+			[
+				"margin-r",
+				"margin-right"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"menu",
+				"menuFlip"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"mrg",
+				"margin-left"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"padding-bo",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"li",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Windows",
+				"name": "index.php"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Windows",
+				"name": "style.css"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/sisfokol_v5_smp/inc/config.php",
+		"/C/wamp/www/ibmoop/goodcode2.php",
+		"/C/wamp/www/ibmoop/goodcode.php",
+		"/C/wamp/www/ibmoop/badcode.php",
+		"/C/wamp/www/belajaroop/test.php",
+		"/C/wamp/www/oop/delete_product.php",
+		"/C/wamp/www/oop/footer.php",
+		"/C/wamp/www/oop/config/database.php",
+		"/C/wamp/www/oop/objects/category.php",
+		"/C/wamp/www/oop/update_product.php",
+		"/C/wamp/www/oop/paging_product.php",
+		"/C/wamp/www/oop/index.php",
+		"/C/wamp/www/oop/objects/product.php",
+		"/C/wamp/www/oop/create_product.php",
+		"/C/wamp/www/oop/template.php",
+		"/C/wamp/www/oop/header.php",
+		"/C/wamp/www/latif/style.css",
+		"/C/wamp/www/latif/index.php",
+		"/C/wamp/www/suryamobil/index.html",
+		"/C/wamp/www/latif/latif",
+		"/C/wamp/www/juiz-last-tweet-widget/juiz-last-tweet-widget/juiz-last-tweet.php",
+		"/C/wamp/www/nabil/wp-content/themes/nabilisme/theme-options.php",
+		"/C/wamp/www/theme-options/theme-options/style.css",
+		"/C/wamp/www/theme-options/theme-options/theme-options.php",
+		"/C/wamp/www/theme-options/theme-options/functions.php",
+		"/C/wamp/www/nabil/wp-content/themes/nabilisme/header.php",
+		"/C/wamp/www/nabil/wp-content/themes/nabilisme/footer.php",
+		"/C/wamp/www/nabil/wp-content/themes/nabilisme/index.php",
+		"/C/wamp/www/nabil/wp-content/themes/nabilisme/style.css",
+		"/D/realquickcount2014/rqc2014 giyas/rqc2014/lib/css/sb-admin.css",
+		"/D/realquickcount2014/rqc2014 giyas/rqc2014/index.php",
+		"/C/wamp/www/nabil/index.php",
+		"/C/wamp/www/nabil/css/style.css",
+		"/D/realquickcount2014/rqc2014 giyas/rqc2014/include/css.php",
+		"/C/wamp/www/pilkada/stabil2.php",
+		"/C/wamp/www/pilkada/stabilitas.php",
+		"/C/wamp/www/pilkada/stabilitassuara.php",
+		"/C/wamp/www/pilkada/stop.php",
+		"/C/wamp/www/pilkada/syaratlogin.php",
+		"/C/wamp/www/pilkada/terjadwal.php",
+		"/C/wamp/www/pilkada/tonedukungan.php",
+		"/C/wamp/www/pilkada/tonehapus.php",
+		"/C/wamp/www/pilkada/tonelaporan.php",
+		"/C/wamp/www/pilkada/tonenomor.php",
+		"/C/wamp/www/pilkada/tonepoll1.php",
+		"/C/wamp/www/pilkada/tonepoll2.php",
+		"/C/wamp/www/pilkada/tonetim.php",
+		"/C/wamp/www/pilkada/toneusul.php",
+		"/C/wamp/www/pilkada/update.php",
+		"/C/wamp/www/pilkada/upload.php",
+		"/C/wamp/www/pilkada/wilayah2.php",
+		"/C/wamp/www/pilkada/xls2.php",
+		"/D/realquickcount2014/server median/htdocs/index.php",
+		"/C/wamp/www/rqc2014/index.php",
+		"/D/realquickcount2014/server median/htdocs/PILKADA/jquery.min.js",
+		"/D/realquickcount2014/server median/htdocs/PILKADA/index.php",
+		"/D/realquickcount2014/server median/htdocs/PILKADA/index2.php",
+		"/D/realquickcount2014/server median/htdocs/PILKADA/install2.php",
+		"/C/wamp/www/rqc2014/bukapintu/user.php",
+		"/C/wamp/www/rqc2014/bukapintu/hapuspetugas.php",
+		"/C/wamp/www/rqc2014/bukapintu/logout.php",
+		"/C/wamp/www/rqc2014/bukapintu/index.php",
+		"/C/wamp/www/rqc2014/bukapintu/tambah-user.php",
+		"/C/wamp/www/rqc2014/bukapintu/tambahuser.php",
+		"/D/realquickcount2014/bobi/admin/tambahuser.php",
+		"/C/wamp/www/rqc2014/bukapintu/tambahuser",
+		"/C/wamp/www/rqc2014/js/jquery.validate.min.js",
+		"/C/wamp/www/rqc2014/bukapintu/proses-import.php",
+		"/C/wamp/www/rqc2014/bukapintu/data-qc.php",
+		"/C/wamp/www/rqc2014/bukapintu/hapus.php",
+		"/C/wamp/www/rqc2014/bukapintu/home.php",
+		"/C/wamp/www/rqc2014/content/home.php",
+		"/C/wamp/www/rqc2014/content/login.php",
+		"/D/realquickcount2014/bobi/content/login-admin.php",
+		"/C/wamp/www/rqc2014/content/login-admin.php",
+		"/C/wamp/www/rqc2014/css/style.css",
+		"/C/wamp/www/rqc2014/js/option.php",
+		"/C/wamp/www/rqc2014/js/fusioncharts.js",
+		"/C/wamp/www/rqc2014/js/option.js",
+		"/C/wamp/www/rqc2014/bukapintu/excel_reader2.php",
+		"/D/realquickcount2014/bobi/admin/excel_reader2.php",
+		"/C/wamp/www/rqc2014/bukapintu/import.php",
+		"/C/wamp/www/rqc2014/config.php",
+		"/D/wp-require-auth.1.0.2/wp-require-auth/wprequireauth.php",
+		"/C/wamp/www/yok/wp-login.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/extends/wysiwyg/wysiwyg.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/functions.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/extends/portfolio-custom-fields.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/extends/shortcodes.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/admin/main.php",
+		"/C/wamp/www/yok/wp-content/themes/dhikamal/functions-xnav.php",
+		"/C/Users/elmizan/Desktop/dhika kamal web/photolio_v1.2j2.5/photolio_v1.2j2.5/photolio_v1.2/dhikamal/header.php",
+		"/C/Users/elmizan/Desktop/dhika kamal web/photolio_v1.2j2.5/photolio_v1.2j2.5/photolio_v1.2/dhikamal/includes/related-portfolio.php",
+		"/C/Users/elmizan/Desktop/dhika kamal web/photolio_v1.2j2.5/photolio_v1.2j2.5/photolio_v1.2/dhikamal/js/jquery-1.7.1.min.js",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/css/base.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/css/base.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/css/tools.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/attachment.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/css/layout.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/_post.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/style.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/config/layouts/theme_options.php",
+		"/C/Users/elmizan/Desktop/clean-and-simple-contact-form-by-meg-nicholas.4.3.4/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php",
+		"/C/Users/elmizan/Desktop/clean-and-simple-contact-form-by-meg-nicholas.4.3.4/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php",
+		"/C/Users/elmizan/Desktop/clean-and-simple-contact-form-by-meg-nicholas.4.3.4/clean-and-simple-contact-form-by-meg-nicholas/views/message-not-sent.view.php",
+		"/C/Users/elmizan/Desktop/clean-and-simple-contact-form-by-meg-nicholas.4.3.4/clean-and-simple-contact-form-by-meg-nicholas/css/bootstrap-forms.min.css",
+		"/C/Users/elmizan/Desktop/clean-and-simple-contact-form-by-meg-nicholas.4.3.4/clean-and-simple-contact-form-by-meg-nicholas/clean-and-simple-contact-form-by-meg-nicholas.php",
+		"/C/Users/elmizan/Desktop/contact-form/contact-form/oke.php",
+		"/C/Users/elmizan/Desktop/contact-form/contact-form/ok.css",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/page.php",
+		"/C/Users/elmizan/Desktop/contact-form/contact-form/style.css",
+		"/C/Users/elmizan/Desktop/contact-form/contact-form/page-contact-us.php",
+		"/C/wamp/www/yok/wp-content/plugins/widgetkit/classes/widgetkit.php",
+		"/C/wamp/www/yok/wp-content/plugins/widgetkit/widgetkit.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/fonts/SignikaNegativeRegular-demo.html",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/footer.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/warp.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/styles/mobile/layouts/template.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/styles/mobile/layouts/template.config.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/header.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/footer.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/layouts/modules/templates/0-1-3.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/head.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/index.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/helpers/modules.php",
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/yok",
+		"/C/wamp/www/layout/style.css",
+		"/C/wamp/www/layout/layout"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var_dump",
+			"aside",
+			"more",
+			">",
+			">>",
+			"&raquo",
+			"next",
+			"50px",
+			"5px",
+			"300px",
+			"title",
+			"tspan",
+			"<tspan",
+			"tspan",
+			"tspan ",
+			"getElementsByTagName",
+			"tspan",
+			" align=\"right\"",
+			"td align=\"right\"",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+			"tr style='background:#022444;'",
+			"td style='text-align:center;'",
+			"td style='text-align:left;'",
+			"18px",
+			"left",
+			"&$",
+			"&output",
+			"&$output",
+			"&output",
+			".js",
+			"jquery",
+			"curl",
+			"content",
+			"main",
+			"header",
+			".left",
+			"headerba",
+			"content",
+			"input",
+			"100%",
+			"form-control",
+			"large",
+			"input-medium",
+			"medium",
+			"large",
+			"\"text\"",
+			"input",
+			"large",
+			"human",
+			"3",
+			"show",
+			"powered",
+			"fixed",
+			"		.navbar-fixed-top {position: fixed;}",
+			"fixed",
+			"160px",
+			"300",
+			"primary-",
+			"PRIM",
+			"prim",
+			"primary",
+			"newsletter",
+			"think",
+			"newsletter",
+			"news letter",
+			"design with",
+			"design",
+			"search",
+			"20px",
+			";\n",
+			"a href=\"http://",
+			"li ",
+			"li",
+			"navb",
+			"coll",
+			"bout",
+			"logo",
+			"http://b.vimeocdn.com/ts/469/318/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2012/12/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2013/05/",
+			"http://smartdesignworldwide.com/wp-content/themes/smart-com3/img/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2014/05/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2012/11/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2014/04/",
+			"http://smartdesignworldwide.com/wp-content/uploads/2014/03/",
+			"uploads",
+			"http://smartdesignworldwide.com/wp-content/"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"print_r",
+			"",
+			"td",
+			"",
+			"tr",
+			"td",
+			"$",
+			"",
+			"	/*	.navbar-fixed-top {position: fixed;} */\n",
+			"upload/",
+			"img/",
+			"upload/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.php",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "style.css",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "kepegawaian.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"curl",
+				"includes\\related-portfolio.php"
+			],
+			[
+				"jquery",
+				"js\\jquery-1.7.1.min.js"
+			],
+			[
+				"base",
+				"css\\base.css"
+			],
+			[
+				"atta",
+				"warp\\systems\\wordpress\\layouts\\attachment.php"
+			],
+			[
+				"content",
+				"warp\\systems\\wordpress\\config\\layouts\\theme_options.php"
+			],
+			[
+				"large",
+				"clean-and-simple-contact-form-by-meg-nicholas.php"
+			],
+			[
+				"page",
+				"wp-content\\themes\\yoo_revista_wp\\warp\\systems\\wordpress\\layouts\\page.php"
+			],
+			[
+				"widgetkit",
+				"wp-content\\plugins\\widgetkit\\classes\\widgetkit.php"
+			],
+			[
+				"widgetki",
+				"wp-content\\plugins\\widgetkit\\widgetkit.php"
+			],
+			[
+				"in",
+				"warp\\systems\\wordpress\\layouts\\index.php"
+			],
+			[
+				"singel",
+				"warp\\systems\\wordpress\\layouts\\single.php"
+			],
+			[
+				"thum",
+				"warp\\systems\\wordpress\\helpers\\modules.php"
+			],
+			[
+				"index",
+				"warp\\systems\\wordpress\\layouts\\index.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"ti",
+				"warp\\systems\\wordpress\\config\\layouts\\theme_options.php"
+			],
+			[
+				"templ",
+				"warp\\layouts\\modules\\templates\\0-1-3.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"title",
+				"styles\\mobile\\layouts\\template.config.php"
+			],
+			[
+				"wra",
+				"warp\\warp.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
