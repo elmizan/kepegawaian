@@ -22,7 +22,7 @@
    <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="../" class="navbar-brand">SIM SMPN 31 Bekasi</a>
+          <a href="index.php" class="navbar-brand">SIM SMPN 31 Bekasi</a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -31,12 +31,14 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
-            <li class="dropdown">
             <li>
-              <a href="../help/">Help</a>
+              <a href="?page=help"><i class="fa fa-home fa-2x"></i> Beranda</a>
+            </li>          
+            <li>
+              <a href="?page=help"><i class="fa fa-support fa-2x"></i> Bantuan</a>
             </li>
             <li>
-              <a href="http://news.bootswatch.com">Blog</a>
+              <a href="?page=about"><i class="fa fa-question-circle fa-2x"></i> Tentang</a>
             </li>
           </ul>
 

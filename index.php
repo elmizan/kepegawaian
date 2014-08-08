@@ -6,20 +6,20 @@ echo '<div class="container">';
 if(isset($_GET['page']))
 {
   $page = $_GET['page'];
-  $filename = "content/$page.php";
+  $filename = "$page.php";
   
   if(!file_exists($filename))
   {
-    include "content/home.php";
+    include "home.php";
   }
   else
   {
-    include "content/$page.php";
+    include "$page.php";
   }
 }
 else
 {
-  include "content/home.php";
+  include "home.php";
 }
 
 include_once "footer.php";

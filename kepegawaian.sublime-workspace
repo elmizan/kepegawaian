@@ -223,24 +223,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 1601,
-				"line_ending": "Windows",
-				"name": "index.php"
-			}
-		},
-		{
-			"file": "assets/css/style.css",
-			"settings":
-			{
-				"buffer_size": 142,
-				"line_ending": "Windows",
-				"name": "style.css"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -269,6 +251,8 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/kepegawaian/assets/css/style.css",
+		"/C/wamp/www/kepegawaian/index.php",
 		"/C/wamp/www/sisfokol_v5_smp/inc/config.php",
 		"/C/wamp/www/ibmoop/goodcode2.php",
 		"/C/wamp/www/ibmoop/goodcode.php",
@@ -394,9 +378,7 @@
 		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/head.php",
 		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/layouts/index.php",
 		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/warp/systems/wordpress/helpers/modules.php",
-		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/yok",
-		"/C/wamp/www/layout/style.css",
-		"/C/wamp/www/layout/layout"
+		"/C/wamp/www/yok/wp-content/themes/yoo_revista_wp/yok"
 	],
 	"find":
 	{
@@ -531,67 +513,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1601,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1583,
-								1583
-							]
-						],
-						"settings":
-						{
-							"auto_name": "index.php",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 142,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								91,
-								91
-							]
-						],
-						"settings":
-						{
-							"auto_name": "style.css",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
